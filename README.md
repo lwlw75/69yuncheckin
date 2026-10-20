@@ -1,4 +1,4 @@
-# 项目配置教程
+# 项目配置教程1
 
 ## 1. 点击 Star 和 Fork 这个项目
 
@@ -25,7 +25,7 @@
 
 - **步骤**：
     1. 打开你的 GitHub 仓库页面。
-    2. 点击页面右上角的 **Settings** 按钮。
+    2. 点击页面右上角的 **设置** 按钮。
     3. 在左侧菜单栏找到 **Secrets and variables**，点击 **Actions**。
     4. 点击 **New repository secret** 按钮，添加以下 Secrets：
         - `BOT_TOKEN`：你的 Bot Token。
